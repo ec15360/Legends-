@@ -2,8 +2,7 @@
 Queen Mary University of London
 BSc(Hons) Computer Science with Business Management with Industrial Experience
 Final Year Project Supporting Material
-
-Project Title - Legends: A Quest to uncover female protagonist throughout history.
+Project Title - Legends: A Quest to uncover female protagonist throughout history
 Student - Laraib Azam Rajper
 Student ID -  150701938
 Supervisor -  Graham White
