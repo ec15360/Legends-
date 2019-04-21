@@ -1,4 +1,4 @@
-# Legends
+# Legends: A Quest to Uncover Female Protagonist Throughout History 
 Queen Mary University of London
 
 BSc(Hons) Computer Science with Business Management with Industrial Experience
