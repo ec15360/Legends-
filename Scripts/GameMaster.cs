@@ -18,7 +18,7 @@ using TMPro;
 public class GameMaster : MonoBehaviour {
 
  
-    public static GameMaster gm;
+    public static GameMaster gm; //Static instance of GameManager which allows it to be accessed by any other script.
     private LevelComplete levelComplete; 
     public static int health;
 
