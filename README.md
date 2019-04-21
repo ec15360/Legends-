@@ -1,4 +1,4 @@
-# Legends-
+# Legends
 Queen Mary University of London
 
 BSc(Hons) Computer Science with Business Management with Industrial Experience
