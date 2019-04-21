@@ -15,14 +15,14 @@ using UnityEngine.Events;
 
 public class CharacterController2D : MonoBehaviour
 {
-	[SerializeField] private float forceWhenJumping = 100f;							// Value of force added when the player jumps
+	[SerializeField] private float forceWhenJumping = 100f;					// Value of force added when the player jumps
 	[Range(0, 1)] [SerializeField] private float speedWhenCrouching = .36f;			// Value of maximumSpeed applied to crouching movement. 1 = 100%
-	[Range(0, .3f)] [SerializeField] private float amountOfMovementSmoothing = .05f;// Level of movement smoothing
-	[SerializeField] private bool ControlInAir = false;						// If player can control when jumping
-	[SerializeField] private LayerMask groundElements;							    // Mask -  determining what elements are recognised as 'ground'
-	[SerializeField] private Transform groundCheck;							        // Position -  marking where if player is on the 'ground'
-	[SerializeField] private Transform ceilingCheck;							    // Position - marking where ceilings are
-	[SerializeField] private Collider2D colliderDisabledWhenCrouching;				// Collider -  disabled if player is crouching
+	[Range(0, .3f)] [SerializeField] private float amountOfMovementSmoothing = .05f;	// Level of movement smoothing
+	[SerializeField] private bool ControlInAir = false;					// If player can control when jumping
+	[SerializeField] private LayerMask groundElements;					// Mask -  determining what elements are recognised as 'ground'
+	[SerializeField] private Transform groundCheck;						// Position -  marking where if player is on the 'ground'
+	[SerializeField] private Transform ceilingCheck;					// Position - marking where ceilings are
+	[SerializeField] private Collider2D colliderDisabledWhenCrouching;			// Collider -  disabled if player is crouching
 
 	const float groundedRadiumValue = .2f; // Radius value of the overlap circle when determining if player is grounded
 	private bool groundedVal;              // If player is grounded
