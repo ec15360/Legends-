@@ -26,7 +26,7 @@ EXECUTABLES FILES - Download for running project as appropriate for OS
 2. Legends_Windows - download for Windows
 3. Legends_Linux - download for Linux
 
-ASSETS FOLDER OVERVIEW 
+REPOSITORY FILE OVERVIEW 
 
 The assets folder contains all project files.
 
