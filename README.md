@@ -35,24 +35,24 @@ The assets folder contains all project files.
 3. Environments - contains all background and foreground sprites
 4. Scenes - all scenes for the game
 5. Scripts - all source code written for the project 
-	a. AddLives.cs
-	b. Camera2dFollow.cs
-	c. CharacterController2D.cs
-	d. Collectable.cs
-	e. Dialogue.cs
-	f. DialogueManager.cs
-	g. DialogueTrigger.cs
-	h. EndOfGame.cs
-	i. Enemy.cs
-	j. GameMaster.cs
-	k. LevelComplete.cs
-	l. LevelSelector.cs
-	m. Menus.cs
-	n. Parallaxing.cs
-	o. Player.cs
-	p. PlayerMovement.cs
-	q. Teleporter.cs
- 	r. Tiling.cs
+	1. AddLives.cs
+	2. Camera2dFollow.cs
+	3. CharacterController2D.cs
+	4. Collectable.cs
+	5. Dialogue.cs
+	6. DialogueManager.cs
+	7. DialogueTrigger.cs
+	8. EndOfGame.cs
+	9. Enemy.cs
+	10. GameMaster.cs
+	11. LevelComplete.cs
+	12. LevelSelector.cs
+	13. Menus.cs
+	14. Parallaxing.cs
+	15. Player.cs
+	16. PlayerMovement.cs
+	17. Teleporter.cs
+ 	18. Tiling.cs
  
 7. UI Sprites - all sprites for project UI 
 8. Application Icon 
