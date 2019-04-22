@@ -1,34 +1,24 @@
 # Legends: A Quest to Uncover Female Protagonist Throughout History 
 Queen Mary University of London
-
 BSc(Hons) Computer Science with Business Management with Industrial Experience
-
 Final Year Project Supporting Material
-
 Project Title - Legends: A Quest to uncover female protagonist throughout history
-
 Student - Laraib Azam Rajper
-
 Student ID -  150701938
-
 Supervisor -  Graham White
 
 ALL PROJECT FILES INCLUDED IN REPOSITORY  
-
+GitHub Repository Link - https://github.com/ec15360/Legends-.git
 
 JUSTIFICATION FOR LACK OF EXECUTABLE FILE, ALTERNATIVES PROVIDED
-
 The executable file and overall project folder for the project is too large to be included as part of the submission.Therefore, a pdf file, Legends.pdf has been provided, containing links to this repository. All project materials are provided within in GitHub Repository. See below info for file overview
 
 EXECUTABLES FILES - Download for running project as appropriate for OS
-
-1. Legends_MacOSX - download for MAC OSX
-2. Legends_Windows - download for Windows
-3. Legends_Linux - download for Linux
+1. MAC OSX Executable - Download this file for running game on MAC OSX
+1. Windows Executable - Download this file for running game on Windows
+1. Linux Executable - Download this file for running game on Linux
 
 REPOSITORY FILE OVERVIEW 
-
-The assets folder contains all project files.
 
 1. MAC OSX Executable - Download this file for running game on MAC OSX
 1. Windows Executable - Download this file for running game on Windows
