@@ -15,8 +15,13 @@ The executable file and overall project folder for the project is too large to b
 
 EXECUTABLES FILES - Download for running project as appropriate for OS
 1. MAC OSX Executable - Download this file for running game on MAC OSX
-1. Windows Executable - Download this file for running game on Windows
-1. Linux Executable - Download this file for running game on Linux
+https://github.com/ec15360/Legends-/blob/master/MAC%20OSX%20Executable.zip
+
+2. Windows Executable - Download this file for running game on Windows
+https://github.com/ec15360/Legends-/blob/master/Windows%20Executable.zip
+
+3. Linux Executable - Download this file for running game on Linux
+https://github.com/ec15360/Legends-/blob/master/Linux%20Executable.zip
 
 REPOSITORY FILE OVERVIEW 
 
