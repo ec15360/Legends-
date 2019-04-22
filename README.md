@@ -30,11 +30,13 @@ REPOSITORY FILE OVERVIEW
 
 The assets folder contains all project files.
 
+1. MAC OSX Executable - Download this file for running game on MAC OSX
+1. Windows Executable - Download this file for running game on Windows
+1. Linux Executable - Download this file for running game on Linux
 1. Animations - contains all animations for all objects
 2. Audio - contains all audio files used in project 
-3. Environments - contains all background and foreground sprites
-4. Scenes - all scenes for the game
-5. Scripts - all source code written for the project 
+3. Scenes - all scenes for the game
+4. Scripts - all source code written for the project 
 	1. AddLives.cs
 	2. Camera2dFollow.cs
 	3. CharacterController2D.cs
@@ -54,9 +56,11 @@ The assets folder contains all project files.
 	17. Teleporter.cs
  	18. Tiling.cs
  
-7. UI Sprites - all sprites for project UI 
-8. Application Icon 
-
+5. Sprites 
+	1. UI Sprites - all sprites for project UI 
+	2. Environments - contains all background and foreground sprites
+	3. Application Icon 
+6. READ ME - Instructions/ Project Details
 
  
 
