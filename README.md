@@ -59,7 +59,8 @@ The assets folder contains all project files.
 5. Sprites 
 	1. UI Sprites - all sprites for project UI 
 	2. Environments - contains all background and foreground sprites
-	3. Application Icon 
+	3. Sprites - All graphics for game
+	4. Application Icon 
 6. READ ME - Instructions/ Project Details
 
  
