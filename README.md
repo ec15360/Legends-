@@ -23,6 +23,15 @@ https://github.com/ec15360/Legends-/blob/master/Windows%20Executable.zip
 3. Linux Executable - Download this file for running game on Linux
 https://github.com/ec15360/Legends-/blob/master/Linux%20Executable.zip
 
+Instructions for Downloading and Running the Game
+1.	Download the project from GitHub Repo 
+2.	Locate in downloads and extract files
+3.	Locate file for appropriate Operating System and extract those files
+4.	Allow applications from unidentified developers to run on your machine or game will not run!
+5.	Run exec file for Linux and Windows
+6.	Run Legends file for Mac OSX
+7.	If the resolution of the screen has not been automatically detected, go to the options menu and select the appropriate resolution from the Full Screen dropdown list.
+
 REPOSITORY FILE OVERVIEW 
 
 1. MAC OSX Executable - Download this file for running game on MAC OSX
