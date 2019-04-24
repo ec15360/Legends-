@@ -2,16 +2,16 @@
 Queen Mary University of London |
 BSc(Hons) Computer Science with Business Management with Industrial Experience |
 Final Year Project Supporting Material |
-Project Title - Legends: A Quest to uncover female protagonist throughout history |
+Project Title - Legends: A Quest to uncover female protagonists throughout history |
 Student - Laraib Azam Rajper |
 Student ID -  150701938 |
-Supervisor -  Graham White |
+Supervisor -  Dr Graham White |
 
 ALL PROJECT FILES INCLUDED IN REPOSITORY  
 GitHub Repository Link - https://github.com/ec15360/Legends-.git
 
 JUSTIFICATION FOR LACK OF EXECUTABLE FILE, ALTERNATIVES PROVIDED
-The executable file and overall project folder for the project is too large to be included as part of the submission.Therefore, a pdf file, Legends.pdf has been provided, containing links to this repository. All project materials are provided within in GitHub Repository. See below info for file overview
+The executable files and overall project folder for the project is too large to be included as part of the submission for supporting material. Therefore, a pdf file has been provided, containing links this GitHub repository. All project materials are provided within in GitHub Repository. See below info for file overview and downloading of executables.
 
 EXECUTABLES FILES - Download for running project as appropriate for OS
 1. MAC OSX Executable - Download this file for running game on MAC OSX
@@ -29,7 +29,6 @@ REPOSITORY FILE OVERVIEW
 1. Windows Executable - Download this file for running game on Windows
 1. Linux Executable - Download this file for running game on Linux
 1. Animations - contains all animations for all objects
-2. Audio - contains all audio files used in project 
 3. Scenes - all scenes for the game
 4. Scripts - all source code written for the project 
 	1. AddLives.cs
@@ -51,11 +50,7 @@ REPOSITORY FILE OVERVIEW
 	17. Teleporter.cs
  	18. Tiling.cs
  
-5. Sprites 
-	1. UI Sprites - all sprites for project UI 
-	2. Environments - contains all background and foreground sprites
-	3. Sprites - All graphics for game
-	4. Application Icon 
+5. Sprites - used within project 
 6. READ ME - Instructions/ Project Details
 
  
