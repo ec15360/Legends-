@@ -11,7 +11,7 @@ ALL PROJECT FILES INCLUDED IN REPOSITORY
 GitHub Repository Link - https://github.com/ec15360/Legends-.git
 
 JUSTIFICATION FOR LACK OF EXECUTABLE FILE, ALTERNATIVES PROVIDED
-The executable file and overall project folder for the project is too large to be included as part of the submission.Therefore, a pdf file, Legends.pdf has been provided, containing links to this repository. All project materials are provided within in GitHub Repository. See below info for file overview
+The executable files and overall project folder for the project is too large to be included as part of the submission for supporting material. Therefore, a pdf file has been provided, containing links this GitHub repository. All project materials are provided within in GitHub Repository. See below info for file overview and downloading of executables.
 
 EXECUTABLES FILES - Download for running project as appropriate for OS
 1. MAC OSX Executable - Download this file for running game on MAC OSX
